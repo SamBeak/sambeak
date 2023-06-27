@@ -7,6 +7,7 @@
     <h4>Developer embracing new technologies and challenges</h4>
   </sup>
     STACKS 🎮 <br>
+    <center>
   <!-- <a href="https://hyungyu.me"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
   <a href="https://sambeak.github.io"><img src="https://img.shields.io/badge/Blog-9BABB8?style=flat-square&logo=blogger&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Html5-EEE3CB?style=flat&logo=html5&logoColor=E34F26"/></a>
@@ -22,6 +23,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Github-ECE5C7?style=flat&logo=github&logoColor=181717"/></a><br>
   <a href="#"><img src="https://img.shields.io/badge/Jquery-CDC2AE?style=flat&logo=jquery&logoColor=0769AD"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Apachetomcat-116A7B?style=flat&logo=apachetomcat&logoColor=0769AD"/></a>
+    </center>
 </h3>
 
 ### Projects 💼
