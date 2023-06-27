@@ -6,7 +6,7 @@
   <sup>
     <h4>Developer embracing new technologies and challenges</h4>
   </sup>
-    STACKS 🎮 <br>
+    STACKS 🎮 <br><br>
     <center>
   <!-- <a href="https://hyungyu.me"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
   <a href="https://sambeak.github.io"><img src="https://img.shields.io/badge/Blog-9BABB8?style=flat-square&logo=blogger&logoColor=white"/></a>
