@@ -8,7 +8,7 @@
   </sup>
     STACKS 🎮 <br><br>
     <center>
-  <!-- <a href="https://hyungyu.me"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a> -->
+  <a href="https://hyungyu.me"><img src="https://img.shields.io/badge/Resume-A593E0?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="https://sambeak.github.io"><img src="https://img.shields.io/badge/Blog-9BABB8?style=flat-square&logo=blogger&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Html5-EEE3CB?style=flat&logo=html5&logoColor=E34F26"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Css3-D7C0AE?style=flat&logo=css3&logoColor=1572B6"/></a><br>
@@ -26,9 +26,12 @@
     </center>
 </h3>
 
+### Curriculum Vitae 📭
+- [HyunGyu](https://hyungyu.me): 🎫
+
 ### Projects 💼
-- [Nordicnest](https://github.com/sambeak/nordicnest_clone): :clone project that have increased proficiency in HTML5, CSS, JavaScript and React
-- [Kream](https://github.com/sambeak/kreamUnity): :chart_with_upwards_trend: Team clone project that provide variable opportunities to improve skills such as web development, project management and collaboration
+- [Nordicnest](https://github.com/sambeak/nordicnest_clone): 📄 Clone project that have increased proficiency in HTML5, CSS, JavaScript and React
+- [Kream](https://github.com/sambeak/kreamUnity): : 📄 Team clone project that provide variable opportunities to improve skills such as web development, project management and collaboration
 
 
 ### Blog Posts 📜
