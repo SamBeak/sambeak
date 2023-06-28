@@ -15,14 +15,14 @@
   <a href="#"><img src="https://img.shields.io/badge/Sass-884A39?style=flat&logo=Sass&logoColor=CC6699"/></a><br>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-C38154?style=flat&logo=javascript&logoColor=F7DF1E"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Jquery-CDC2AE?style=flat&logo=jquery&logoColor=0769AD"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-F9E0BB?style=flat&logo=react&logoColor=61DAFB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-E53A40?style=flat&logo=react&logoColor=61DAFB"/></a>
   <a href="#"><img src="https://img.shields.io/badge/ReactRouter-D8C4B6?style=flat&logo=reactrouter&logoColor=CA4245"/></a><br>
-  <a href="#"><img src="https://img.shields.io/badge/Mysql-4F709C?style=flat&logo=mysql&logoColor=4479A1"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Mysql-FFFFF3?style=flat&logo=mysql&logoColor=4479A1"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-FFC26F?style=flat&logo=python&logoColor=3776AB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flask-213555?style=flat&logo=flask&logoColor=000000"/></a><br>
+  <a href="#"><img src="https://img.shields.io/badge/Flask-F68657?style=flat&logo=flask&logoColor=000000"/></a><br>
   <a href="#"><img src="https://img.shields.io/badge/Git-C2DEDC?style=flat&logo=git&logoColor=F05032"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Github-ECE5C7?style=flat&logo=github&logoColor=181717"/></a><br>
-  <a href="#"><img src="https://img.shields.io/badge/Apachetomcat-116A7B?style=flat&logo=apachetomcat&logoColor=0769AD"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Apachetomcat-D1B6E1?style=flat&logo=apachetomcat&logoColor=0769AD"/></a>
     </center>
 </h3>
 
