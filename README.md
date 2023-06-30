@@ -35,4 +35,5 @@
 
 
 ### Blog Posts 📜
-- [🏰RESTful API](https://sambeak.github.io/all_posts)
+- [🏰RESTful API](https://sambeak.github.io/posts/restful-api/)
+- [🤝협업을 위한 완벽한 커밋 메시지 작성](https://sambeak.github.io/posts/commit/)
