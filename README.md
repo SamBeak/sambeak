@@ -30,8 +30,8 @@
 - [HyunGyu](https://hyungyu.me): 🎫 -->
 
 ### Projects 💼
-- [Nordicnest](https://github.com/sambeak/nordicnest_clone): 📄 Clone project that have increased proficiency in HTML5, CSS, JavaScript and React
-- [Kream](https://github.com/sambeak/kreamUnity): : 📄 Team clone project that provide variable opportunities to improve skills such as web development, project management and collaboration
+- [Nordicnest](https://github.com/sambeak/nordicnest_react): 📄 Clone project that have increased proficiency in HTML5, CSS, JavaScript and React
+- [Kream](https://github.com/sambeak/kream_react): : 📄 Team clone project that provide variable opportunities to improve skills such as web development, project management and collaboration
 
 
 ### Blog Posts 📜
