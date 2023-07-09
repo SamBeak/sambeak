@@ -32,9 +32,12 @@
 ### Projects 💼
 - [Nordicnest](https://github.com/sambeak/nordicnest_react): 📄 Clone project that have increased proficiency in HTML5, CSS, JavaScript and React
 - [Kream](https://github.com/sambeak/kream_react): : 📄 Team clone project that provide variable opportunities to improve skills such as web development, project management and collaboration
+- [Kurly](https://github.com/sambeak/kurly_react): : 📄 Clone Project that have increased proficiency in java, jsp, jquery
+- [Brando](https://github.com/sambeak/brando_react): : 📄 Clone Project that have increased proficiency in Response Web Design and JavaScript
 
 
 ### Blog Posts 📜
+- [ALL POSTS](https://sambeak.github.io)
 - [🏰 RESTful API](https://sambeak.github.io/posts/restful-api/)
 - [🤝 협업을 위한 완벽한 커밋 메시지 작성](https://sambeak.github.io/posts/commit/)
 - [🚢 Docker 컨테이너 기술의 핵심](https://sambeak.github.io/posts/docker/)
